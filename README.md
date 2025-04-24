@@ -1,7 +1,7 @@
-🦠 Predicting Disease Outbreaks Using Spatiotemporal Data with Machine Learning
-This project explores how machine learning and spatiotemporal data can be combined to forecast and visualize the spread of infectious diseases, using COVID-19 as a case study. The model integrates climate data, mobility patterns, and socioeconomic indicators to detect outbreak trends and issue early warnings.
+🦠 #Predicting Disease Outbreaks Using Spatiotemporal Data with Machine Learning
+This project explores how machine learning and spatiotemporal data can be combined to forecast and visualize the spread of infectious diseases, using COVID-19 as a case study. The model integrates climate data, mobility patterns, and socioeconomic indicators to detect outbreak trends and issue early warnings.#
 
-📌 Objectives
+📌 ###Objectives###
 Predict disease outbreaks using ML algorithms based on spatiotemporal patterns
 
 Support health authorities with real-time visualizations and alerts
